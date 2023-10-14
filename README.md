@@ -1,10 +1,7 @@
 # Crowdfunding-Based-blockchain-Project
 Crowdfunding Based blockchain Project with code and documents plus Youtube Video Explanation
 
-## Youtube Explanation : https://youtu.be/ti2eDRQnIZo
-
 ![Blue Corporate Business YouTube Thumbnail](https://user-images.githubusercontent.com/28294942/232338242-337e15ea-e964-44f4-9be0-20119748ade2.png)
-
 
 # Crowd-Funding-Using-Solidity
 
@@ -37,23 +34,7 @@ This will give the payment to the recpient for the proposal.
 
 You Can use this Beautiful Project for your college Project and get good marks too. 
 
-Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
-
-### Need Code, Documents & Explanation video ? 
-
-## How to Reach me :
-
-### Mail : vatshayan007@gmail.com 
-
-### WhatsApp: **+91 9310631437** (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
-
-### Website : https://www.finalproject.in/
-
-### 1000 Computer Science Projects : https://www.computer-science-project.in/
-
-### Youtube Explanation : https://youtu.be/ti2eDRQnIZo
-
-Mail/Message me for Projects Help 🙏🏻
+Email me Now **fantasydev1225@gmail.com** Mail/Message me for Projects Help 🙏🏻
 
 Getting Errors / problems : Contact me will help you !
 
